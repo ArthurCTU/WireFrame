@@ -1,0 +1,10 @@
+To test the wireframe provided, one can proceed by
+inspecting each little aspect of the frame. This is
+unit testing.
+One could also exercise the frame on different browsers
+(mozilla firefox, internet explorer, chrome etc)
+and on different devices such as a tablet, phone, computer
+
+In order to improve the wireframe developed,
+its important to take into consideration the opinion
+users make and take action accordingly.
